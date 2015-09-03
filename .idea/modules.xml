@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/ModuleThreeVariables/ModuleThreeVariables.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/ModuleThreeVariables/ModuleThreeVariables.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/ModuleThreeVariables/app/app.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/ModuleThreeVariables/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/ddurbin/AndroidStudioProjects/ModuleThreeVariables/initializevariables/initializevariables.iml" filepath="/Volumes/DATA/Users/ddurbin/AndroidStudioProjects/ModuleThreeVariables/initializevariables/initializevariables.iml" />
+    </modules>
+  </component>
+</project>
